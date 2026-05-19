@@ -1,12 +1,13 @@
 import React, { useState } from "react";
-import { Link, useNavigate } from "react-router-dom";
+import { Link, useNavigate, useLocation } from "react-router-dom";
 import axios from "axios";
 
 function Login() {
     const navigate = useNavigate();
-
-    const [activeTab, setActiveTab] = useState("login");
-
+    const location = useLocation();
+    const [activeTab, setActiveTab] = useState(
+        location.state?.tab || "login"
+    );
     const [btnText, setBtnText] = useState("Sign In");
     const [btnColor, setBtnColor] = useState("");
 

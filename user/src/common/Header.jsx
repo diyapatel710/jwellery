@@ -73,8 +73,7 @@ function Header() {
     /* Header Scroll Effect */
     useEffect(() => {
 
-        const navbar =
-            document.getElementById("navbar");
+        const navbar = document.getElementById("navbar");
 
         const handleScroll = () => {
 
