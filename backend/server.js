@@ -14,10 +14,7 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT
 
-app.use(cors({
-  origin: true,
-  credentials: true
-}));
+app.use(cors({ origin: true, credentials: true }));
 app.use(express.json());
 app.use('/uploads', express.static('uploads'));
 const server = http.createServer(app);
