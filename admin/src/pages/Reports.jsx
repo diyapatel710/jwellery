@@ -43,7 +43,11 @@ function Reports() {
     const [showDropdown, setShowDropdown] = useState(false);
 
     useEffect(() => {
+<<<<<<< HEAD
         axios.get("http://localhost:8000/reports-data")
+=======
+        axios.get(`${import.meta.env.VITE_BACKEND_URL}/reports-data`)
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
             .then((res) => {
                 setReport(res.data);
             })

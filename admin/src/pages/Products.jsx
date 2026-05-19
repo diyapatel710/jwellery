@@ -23,7 +23,11 @@ function Products() {
     const fetchProducts = async () => {
 
         try {
+<<<<<<< HEAD
             const res = await fetch("http://localhost:8000/products")
+=======
+            const res = await fetch(`${import.meta.env.VITE_BACKEND_URL}/products`)
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
             const data = await res.json()
 
             setProducts(data)
@@ -70,7 +74,11 @@ function Products() {
         }
         try {
             if (editId !== null) {
+<<<<<<< HEAD
                 await fetch(`http://localhost:8000/products/${editId}`, {
+=======
+                await fetch(`${import.meta.env.VITE_BACKEND_URL}/products/${editId}`, {
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
                     method: "PUT",
                     headers: {
                         "Content-Type": "application/json"
@@ -78,7 +86,11 @@ function Products() {
                     body: JSON.stringify(updatedData)
                 })
             } else {
+<<<<<<< HEAD
                 await fetch("http://localhost:8000/products", {
+=======
+                await fetch(`${import.meta.env.VITE_BACKEND_URL}/products`, {
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
                     method: "POST",
                     headers: {
                         "Content-Type": "application/json"
@@ -113,7 +125,11 @@ function Products() {
 
         try {
 
+<<<<<<< HEAD
             await fetch(`http://localhost:8000/products/${id}`, {
+=======
+            await fetch(`${import.meta.env.VITE_BACKEND_URL}/products/${id}`, {
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
                 method: "DELETE"
             })
 
@@ -240,7 +256,11 @@ function Products() {
                                         <td>
                                             <div className="prod-img-cell">
                                                 <div className="prod-thumb">
+<<<<<<< HEAD
                                                     <img src={`http://localhost:8000${p.images?.[0]}`} alt={p.name} className="prod-thumb-img" />
+=======
+                                                    <img src={`${import.meta.env.VITE_BACKEND_URL}${p.images?.[0]}`} alt={p.name} className="prod-thumb-img" />
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
                                                 </div>
                                                 <div className="prod-name">
                                                     <strong>{p.name}</strong>

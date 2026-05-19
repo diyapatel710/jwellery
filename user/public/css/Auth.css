@@ -72,18 +72,37 @@
      justify-content: center;
      padding: 3rem;
      background: var(--cream);
+<<<<<<< HEAD
+=======
+
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
  }
 
  .auth-box {
      width: 100%;
      max-width: 420px;
+<<<<<<< HEAD
+=======
+     position: relative;
+     z-index: 10;
+     margin-top: 20px;
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
  }
 
  .auth-tabs {
      display: flex;
+<<<<<<< HEAD
      gap: 0;
      margin-bottom: 2.5rem;
      border-bottom: 2px solid rgba(201, 168, 76, 0.2);
+=======
+     justify-content: center;
+     gap: 20px;
+     margin-bottom: 2.5rem;
+     border-bottom: 2px solid rgba(201, 168, 76, 0.2);
+     position: relative;
+     z-index: 20;
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
  }
 
  .auth-tab {

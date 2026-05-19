@@ -19,7 +19,11 @@ export const handleRazorpayPayment = async (selectedAddress, amount, cartItems) 
         }
 
         // 🟡 1. SAVE ORDER (₹)
+<<<<<<< HEAD
         const saveRes = await fetch("http://localhost:8000/save-order", {
+=======
+        const saveRes = await fetch(`${import.meta.env.VITE_BACKEND_URL}/save-order`, {
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({
@@ -42,7 +46,11 @@ export const handleRazorpayPayment = async (selectedAddress, amount, cartItems) 
 
         // 🟡 2. CREATE RAZORPAY ORDER
         console.log("FINAL AMOUNT:", amount);
+<<<<<<< HEAD
         const res = await fetch("http://localhost:8000/create-order", {
+=======
+        const res = await fetch(`${import.meta.env.VITE_BACKEND_URL}/create-order`, {
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ amount: amount }) // ₹
@@ -73,7 +81,11 @@ export const handleRazorpayPayment = async (selectedAddress, amount, cartItems) 
 
             // ✅ SUCCESS
             handler: async function (response) {
+<<<<<<< HEAD
                 await fetch("http://localhost:8000/update-order", {
+=======
+                await fetch(`${import.meta.env.VITE_BACKEND_URL}/update-order`, {
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
                     method: "POST",
                     headers: { "Content-Type": "application/json" },
                     body: JSON.stringify({
@@ -102,7 +114,11 @@ export const handleRazorpayPayment = async (selectedAddress, amount, cartItems) 
             // ✅ CANCEL
             modal: {
                 ondismiss: async function () {
+<<<<<<< HEAD
                     await fetch("http://localhost:8000/update-order", {
+=======
+                    await fetch(`${import.meta.env.VITE_BACKEND_URL}/update-order`, {
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
                         method: "POST",
                         headers: { "Content-Type": "application/json" },
                         body: JSON.stringify({
@@ -123,7 +139,11 @@ export const handleRazorpayPayment = async (selectedAddress, amount, cartItems) 
 
             console.log("PAYMENT FAILED:", response);
 
+<<<<<<< HEAD
             await fetch("http://localhost:8000/update-order", {
+=======
+            await fetch(`${import.meta.env.VITE_BACKEND_URL}/update-order`, {
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({

@@ -110,7 +110,11 @@ function Wishlist() {
                                     <div className="product-img">
 
                                         <img
+<<<<<<< HEAD
                                             src={`http://localhost:8000${item.images?.[0]}`}
+=======
+                                            src={`${import.meta.env.VITE_BACKEND_URL}${item.images?.[0]}`}
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
                                             alt={item.name}
                                         />
 

@@ -66,7 +66,11 @@ function Coupons() {
             status: "active"
         };
 
+<<<<<<< HEAD
         const res = await fetch("http://localhost:8000/coupons", {
+=======
+        const res = await fetch(`${import.meta.env.VITE_BACKEND_URL}/coupons`, {
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
@@ -84,7 +88,11 @@ function Coupons() {
 
     const deleteCoupon = async (id) => {
 
+<<<<<<< HEAD
         await fetch(`http://localhost:8000/coupons/${id}`, {
+=======
+        await fetch(`${import.meta.env.VITE_BACKEND_URL}/coupons/${id}`, {
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
             method: "DELETE"
         })
 
@@ -125,7 +133,11 @@ function Coupons() {
         };
 
         const res = await fetch(
+<<<<<<< HEAD
             `http://localhost:8000/coupons/${coupon._id}`,
+=======
+            `${import.meta.env.VITE_BACKEND_URL}/coupons/${coupon._id}`,
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
             {
                 method: "PUT",
                 headers: {
@@ -157,7 +169,11 @@ function Coupons() {
 
     useEffect(() => {
 
+<<<<<<< HEAD
         fetch("http://localhost:8000/coupons")
+=======
+        fetch(`${import.meta.env.VITE_BACKEND_URL}/coupons`)
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
             .then(res => res.json())
             .then(data => {
                 setCoupons(data)

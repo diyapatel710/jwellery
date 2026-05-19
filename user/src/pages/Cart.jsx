@@ -29,7 +29,11 @@ function Cart() {
             try {
 
                 const res = await fetch(
+<<<<<<< HEAD
                     "http://localhost:8000/coupons"
+=======
+                    `${import.meta.env.VITE_BACKEND_URL}/coupons`
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
                 );
 
                 const data = await res.json();
@@ -92,7 +96,11 @@ function Cart() {
         try {
 
             const res = await fetch(
+<<<<<<< HEAD
                 `http://localhost:8000/coupons/${finalCoupon}`
+=======
+                `${import.meta.env.VITE_BACKEND_URL}/coupons/${finalCoupon}`
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
             );
 
             const data = await res.json();
@@ -202,7 +210,11 @@ function Cart() {
 
                                             <div className="ci-img">
                                                 <img
+<<<<<<< HEAD
                                                     src={`http://localhost:8000${item.images?.[0]}`}
+=======
+                                                    src={`${import.meta.env.VITE_BACKEND_URL}${item.images?.[0]}`}
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
                                                     alt={item.name}
                                                     className="cart-product-image"
                                                 />

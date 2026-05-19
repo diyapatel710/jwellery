@@ -4115,4 +4115,49 @@
     video,
     iframe {
       max-width: 100%;
+<<<<<<< HEAD
+=======
+    }
+
+    .delivery-tracker {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin: 25px 0;
+    }
+
+    .step {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+      min-width: 80px;
+    }
+
+    .step span {
+      font-size: 24px;
+    }
+
+    .line {
+      flex: 1;
+      height: 3px;
+      background: #ddd;
+      border-radius: 10px;
+      margin: 0 10px;
+      margin-bottom: 22px;
+    }
+
+    .line.active {
+      background: #c9a44c;
+    }
+
+    .step.completed span,
+    .step.current span {
+      transform: scale(1.1);
+    }
+
+    .step p {
+      font-size: 14px;
+      margin: 0;
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
     }

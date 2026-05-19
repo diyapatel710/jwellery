@@ -14,10 +14,14 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT
 
+<<<<<<< HEAD
 app.use(cors({
   origin: true,
   credentials: true
 }));
+=======
+app.use(cors({ origin: true, credentials: true }));
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
 app.use(express.json());
 app.use('/uploads', express.static('uploads'));
 const server = http.createServer(app);
@@ -31,7 +35,11 @@ const razorpay = new Razorpay({
 });
 
 /* MongoDB */
+<<<<<<< HEAD
 mongoose.connect("mongodb+srv://project:project@ms.c2rd64t.mongodb.net/jwello_jewellery").then(() => console.log("MongoDB Connected"))
+=======
+mongoose.connect(process.env.MONGO_URI).then(() => console.log("MongoDB Connected"))
+>>>>>>> ace054612ae0953b681d9d6805f751f75cc91382
   .catch(err => console.log("Mongo Error:", err));
 
 /* User Schema */
