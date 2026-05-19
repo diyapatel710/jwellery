@@ -78,7 +78,7 @@ function Dashboard() {
     useEffect(() => {
 
         axios
-            .get("http://localhost:8000/dashboard-stats")
+            .get("${import.meta.env.VITE_BACKEND_URL}/dashboard-stats")
             .then((res) => {
 
                 setStats(res.data);
@@ -87,7 +87,7 @@ function Dashboard() {
             .catch((err) => console.log(err));
 
         axios
-            .get("http://localhost:8000/top-products")
+            .get("${import.meta.env.VITE_BACKEND_URL}/top-products")
             .then((res) => {
 
                 setTopProducts(res.data);

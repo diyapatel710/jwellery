@@ -23,7 +23,7 @@ function Products() {
     const fetchProducts = async () => {
 
         try {
-            const res = await fetch("http://localhost:8000/products")
+            const res = await fetch("${import.meta.env.VITE_BACKEND_URL}/products")
             const data = await res.json()
 
             setProducts(data)
@@ -70,7 +70,7 @@ function Products() {
         }
         try {
             if (editId !== null) {
-                await fetch(`http://localhost:8000/products/${editId}`, {
+                await fetch(`${import.meta.env.VITE_BACKEND_URL}/products/${editId}`, {
                     method: "PUT",
                     headers: {
                         "Content-Type": "application/json"
@@ -78,7 +78,7 @@ function Products() {
                     body: JSON.stringify(updatedData)
                 })
             } else {
-                await fetch("http://localhost:8000/products", {
+                await fetch("${import.meta.env.VITE_BACKEND_URL}/products", {
                     method: "POST",
                     headers: {
                         "Content-Type": "application/json"
@@ -113,7 +113,7 @@ function Products() {
 
         try {
 
-            await fetch(`http://localhost:8000/products/${id}`, {
+            await fetch(`${import.meta.env.VITE_BACKEND_URL}/products/${id}`, {
                 method: "DELETE"
             })
 
@@ -240,7 +240,7 @@ function Products() {
                                         <td>
                                             <div className="prod-img-cell">
                                                 <div className="prod-thumb">
-                                                    <img src={`http://localhost:8000${p.images?.[0]}`} alt={p.name} className="prod-thumb-img" />
+                                                    <img src={`${import.meta.env.VITE_BACKEND_URL}${p.images?.[0]}`} alt={p.name} className="prod-thumb-img" />
                                                 </div>
                                                 <div className="prod-name">
                                                     <strong>{p.name}</strong>

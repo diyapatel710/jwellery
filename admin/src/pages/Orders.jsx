@@ -11,7 +11,7 @@ function Orders() {
     const [customerOrder, setCustomerOrder] = useState('asc')
     const [statusOrder, setStatusOrder] = useState('asc')
     useEffect(() => {
-        fetch("http://localhost:8000/orders")
+        fetch("${import.meta.env.VITE_BACKEND_URL}/orders")
             .then(res => res.json())
             .then(data => {
                 setOrders(data.orders || data)
@@ -30,7 +30,7 @@ function Orders() {
         if (!confirmDelete) return
 
         try {
-            const res = await fetch(`http://localhost:8000/delete-order/${id}`, {
+            const res = await fetch(`${import.meta.env.VITE_BACKEND_URL}/delete-order/${id}`, {
                 method: "DELETE"
             })
 
@@ -49,7 +49,7 @@ function Orders() {
         try {
 
             await axios.put(
-                `http://localhost:8000/update-delivery-status/${id}`,
+                `${import.meta.env.VITE_BACKEND_URL}/update-delivery-status/${id}`,
                 {
                     deliveryStatus: status
                 }

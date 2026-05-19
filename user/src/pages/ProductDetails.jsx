@@ -18,7 +18,7 @@ function ProductDetails() {
     const [editingReviewId, setEditingReviewId] = useState(null);
     const [showEditPopup, setShowEditPopup] = useState(false);
     const fetchProduct = async () => {
-        const res = await fetch(`http://localhost:8000/products/${id}`);
+        const res = await fetch(`${import.meta.env.VITE_BACKEND_URL}/products/${id}`);
 
         const data = await res.json();
 
@@ -30,7 +30,7 @@ function ProductDetails() {
             JSON.parse(localStorage.getItem("jwello_user"));
 
         const res = await fetch(
-            `http://localhost:8000/product-reviews/${id}`
+            `${import.meta.env.VITE_BACKEND_URL}/product-reviews/${id}`
         );
 
         const data = await res.json();
@@ -61,7 +61,7 @@ function ProductDetails() {
         if (!user) return;
 
         const res = await fetch(
-            `http://localhost:8000/can-review/${id}/${user.email}`
+            `${import.meta.env.VITE_BACKEND_URL}/can-review/${id}/${user.email}`
         );
 
         const data = await res.json();
@@ -91,8 +91,8 @@ function ProductDetails() {
         const res = await fetch(
 
             editingReviewId
-                ? `http://localhost:8000/product-reviews/${editingReviewId}`
-                : "http://localhost:8000/product-reviews",
+                ? `${import.meta.env.VITE_BACKEND_URL}/product-reviews/${editingReviewId}`
+                : "${import.meta.env.VITE_BACKEND_URL}/product-reviews",
 
             {
                 method:
@@ -192,7 +192,7 @@ function ProductDetails() {
             <div className="about-header-dark"><Header /></div>
             <div className="product-details">
                 <div className="product-left">
-                    <img src={product.images?.[0] ? `http://localhost:8000${product.images[0]}` : "/placeholder.png"} alt={product.name} />
+                    <img src={product.images?.[0] ? `${import.meta.env.VITE_BACKEND_URL}${product.images[0]}` : "/placeholder.png"} alt={product.name} />
                 </div>
 
                 <div className="product-right">

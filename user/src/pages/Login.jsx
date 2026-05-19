@@ -41,7 +41,7 @@ function Login() {
 
     const handleRegister = async () => {
         try {
-            const res = await axios.post("http://localhost:8000/register", registerData);
+            const res = await axios.post("${import.meta.env.VITE_BACKEND_URL}/register", registerData);
 
             setMessage(res.data.message);
             setMessageColor(res.data.success ? "green" : "red");
@@ -101,7 +101,7 @@ function Login() {
 
             const res = await axios.post(
 
-                "http://localhost:8000/login",
+                "${import.meta.env.VITE_BACKEND_URL}/login",
                 loginData
             ); console.log(res.data);
 

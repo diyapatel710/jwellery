@@ -10,13 +10,13 @@ function Customers() {
     }, [])
 
     const fetchCustomers = () => {
-        fetch("http://localhost:8000/customers")
+        fetch("${import.meta.env.VITE_BACKEND_URL}/customers")
             .then(res => res.json())
             .then(data => setCustomers(data.customers))
     }
 
     const deleteCustomer = async (id) => {
-        await fetch(`http://localhost:8000/customers/${id}`, {
+        await fetch(`${import.meta.env.VITE_BACKEND_URL}/customers/${id}`, {
             method: "DELETE"
         })
 
@@ -24,7 +24,7 @@ function Customers() {
     }
 
     const updateCustomer = async () => {
-        await fetch(`http://localhost:8000/customers/${editCustomer._id}`, {
+        await fetch(`${import.meta.env.VITE_BACKEND_URL}/customers/${editCustomer._id}`, {
             method: "PUT",
             headers: {
                 "Content-Type": "application/json"

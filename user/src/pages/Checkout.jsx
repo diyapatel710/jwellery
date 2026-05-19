@@ -21,7 +21,7 @@ function Checkout() {
             }
 
             // ✅ FIXED BACKTICKS
-            const res = await fetch(`http://localhost:8000/get-user/${user.email}`);
+            const res = await fetch(`${import.meta.env.VITE_BACKEND_URL}/get-user/${user.email}`);
             const data = await res.json();
 
             setUserData(data);

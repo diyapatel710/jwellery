@@ -102,7 +102,7 @@ function Profile() {
 
     };
     useEffect(() => {
-        const socket = io("http://localhost:8000");
+        const socket = io("${import.meta.env.VITE_BACKEND_URL}");
 
         socket.on("delivery-updated", (data) => {
             setOrders(prev =>
@@ -128,7 +128,7 @@ function Profile() {
             try {
 
                 const res = await fetch(
-                    `http://localhost:8000/user-reviews/${user.email}`
+                    `${import.meta.env.VITE_BACKEND_URL}/user-reviews/${user.email}`
                 );
 
                 const data = await res.json();
@@ -161,7 +161,7 @@ function Profile() {
         try {
             const user = JSON.parse(localStorage.getItem("jwello_user"));
 
-            const res = await fetch(`http://localhost:8000/get-user/${user.email}`);
+            const res = await fetch(`${import.meta.env.VITE_BACKEND_URL}/get-user/${user.email}`);
             const data = await res.json();
 
             setCurrentUser(data); // ✅ THIS FIXES EVERYTHING
@@ -185,8 +185,8 @@ function Profile() {
             const user = JSON.parse(localStorage.getItem("jwello_user"));
 
             const url = editId
-                ? "http://localhost:8000/update-address"
-                : "http://localhost:8000/save-address";
+                ? "${import.meta.env.VITE_BACKEND_URL}/update-address"
+                : "${import.meta.env.VITE_BACKEND_URL}/save-address";
 
             const res = await fetch(url, {
                 method: "POST",
@@ -232,7 +232,7 @@ function Profile() {
     };
     const fetchBookings = async () => {
         try {
-            const res = await axios.get(`http://localhost:8000/orders/${user.email}`);
+            const res = await axios.get(`${import.meta.env.VITE_BACKEND_URL}/orders/${user.email}`);
             console.log(res.data);
             const myOrders = res.data.orders.filter(
                 (item) =>
@@ -254,7 +254,7 @@ function Profile() {
         if (!confirmDelete) return;
 
         try {
-            const res = await fetch("http://localhost:8000/delete-address", {
+            const res = await fetch("${import.meta.env.VITE_BACKEND_URL}/delete-address", {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json"
@@ -293,7 +293,7 @@ function Profile() {
             }
 
             const res = await axios.post(
-                `http://localhost:8000/payment/retry/${order._id}`,
+                `${import.meta.env.VITE_BACKEND_URL}/payment/retry/${order._id}`,
                 { email: user.email }
             );
 
@@ -316,7 +316,7 @@ function Profile() {
                 handler: async function (response) {
                     console.log("✅ SUCCESS");
 
-                    await axios.post("http://localhost:8000/update-order", {
+                    await axios.post("${import.meta.env.VITE_BACKEND_URL}/update-order", {
                         id: order._id,
                         status: "Paid",
                         paymentId: response.razorpay_payment_id,
@@ -330,7 +330,7 @@ function Profile() {
                     ondismiss: async function () {
                         console.log("🔥 DISMISSED");
 
-                        await axios.post("http://localhost:8000/update-order", {
+                        await axios.post("${import.meta.env.VITE_BACKEND_URL}/update-order", {
                             id: order._id,
                             status: "Failed"
                         });
@@ -358,8 +358,8 @@ function Profile() {
         const existing = reviewedOrders[reviewOrder._id];
 
         const url = existing
-            ? `http://localhost:8000/user-reviews/${existing._id}`
-            : "http://localhost:8000/user-reviews";
+            ? `${import.meta.env.VITE_BACKEND_URL}/user-reviews/${existing._id}`
+            : "${import.meta.env.VITE_BACKEND_URL}/user-reviews";
 
         const method = existing ? "PUT" : "POST";
 
