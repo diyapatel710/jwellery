@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "6a00f8c9fdbedccc73864c75"
+  },
+  "productId": {
+    "$oid": "69e0d9e77f6d282dca7659c4"
+  },
+  "orderId": {
+    "$oid": "6a00e0208a9c27c2afd85f04"
+  },
+  "userEmail": "mrjdparmar01@gmail.com",
+  "userName": "Jaydeep",
+  "rating": 1,
+  "comment": "bad product",
+  "createdAt": {
+    "$date": "2026-05-10T21:29:45.465Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-10T21:29:45.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a036866608c7b06d057e4a4"
+  },
+  "productId": {
+    "$oid": "69e0d9e77f6d282dca7659c5"
+  },
+  "orderId": {
+    "$oid": "6a007303c247eec9ce614d75"
+  },
+  "userEmail": "mrjdparmar01@gmail.com",
+  "userName": "Jaydeep",
+  "rating": 2.5,
+  "comment": "good product",
+  "createdAt": {
+    "$date": "2026-05-12T17:50:30.041Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-12T17:50:30.041Z"
+  },
+  "__v": 0
+}]

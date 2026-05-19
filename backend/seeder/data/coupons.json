@@ -1,0 +1,107 @@
+[{
+  "_id": {
+    "$oid": "69fe2f43f1b1b18b8359ac4b"
+  },
+  "code": "JWELLO",
+  "desc": "10% off on all jewellery orders",
+  "discount": 10,
+  "used": 12,
+  "limit": 500,
+  "minAmount": 4500,
+  "expiry": {
+    "$date": "2027-12-31T00:00:00Z"
+  },
+  "active": true,
+  "updatedAt": {
+    "$date": "2026-05-09T13:13:19.914Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69fe2fb0f1b1b18b8359ac4d"
+  },
+  "code": "GOLD20",
+  "desc": "10% off on gold collection",
+  "discount": 10,
+  "used": 76,
+  "limit": 200,
+  "minAmount": 4999,
+  "expiry": "2026-10-15T00:00:00.000Z",
+  "active": true
+},
+{
+  "_id": {
+    "$oid": "69fe319bf1b1b18b8359ac4e"
+  },
+  "code": "WELCOME15",
+  "desc": "15% off for new customers",
+  "discount": 15,
+  "used": 128,
+  "limit": 500,
+  "minAmount": 1499,
+  "expiry": "2026-12-31T00:00:00.000Z",
+  "active": true
+},
+{
+  "_id": {
+    "$oid": "69ff4f1b1984ca1419984a38"
+  },
+  "code": "JWELLO50",
+  "discount": 40,
+  "minAmount": 5000,
+  "used": 0,
+  "limit": 56,
+  "expiry": {
+    "$date": "2026-06-29T00:00:00Z"
+  },
+  "active": true,
+  "createdAt": {
+    "$date": "2026-05-09T15:13:31.815Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-09T15:13:31.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ff4fea1984ca1419984a3c"
+  },
+  "code": "JWELLO2000",
+  "discount": 20,
+  "minAmount": 4000,
+  "used": 0,
+  "limit": 800,
+  "expiry": {
+    "$date": "2027-09-29T00:00:00Z"
+  },
+  "active": true,
+  "createdAt": {
+    "$date": "2026-05-09T15:16:58.435Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-09T15:16:58.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ff51ca1984ca1419984a46"
+  },
+  "code": "20 DIS",
+  "discount": 50,
+  "minAmount": 9000,
+  "used": 0,
+  "limit": 910,
+  "expiry": {
+    "$date": "2027-06-23T00:00:00Z"
+  },
+  "active": true,
+  "createdAt": {
+    "$date": "2026-05-09T15:24:58.175Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-09T15:24:58.175Z"
+  },
+  "__v": 0
+}]

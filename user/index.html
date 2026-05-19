@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jwello — Luxury Jewellery</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Jost:wght@200;300;400;500&display=swap"
+    rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&family=Poppins:wght@300;400;500&display=swap"
+    rel="stylesheet">
+
+  <link rel="stylesheet" href="/css/About.css">
+  <link rel="stylesheet" href="/css/product.css">
+  <link rel="stylesheet" href="/css/shop.css">
+  <link rel="stylesheet" href="/css/Auth.css">
+  <link rel="stylesheet" href="/css/style.css" />
+</head>
+
+<body>
+
+  <div id="root"></div>
+
+  <!-- PRELOADER -->
+  <div class="preloader" id="preloader">
+    <div class="preloader-ring"></div>
+    <div class="preloader-text">Jwello</div>
+  </div>
+
+  <!-- CURSOR -->
+  <div class="cursor" id="cursor"></div>
+  <div class="cursor-follower" id="cursor-follower"></div>
+
+  <!-- Main JS -->
+  <script src="js/main.js"></script>
+
+  <!-- Razorpay -->
+  <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+
+  <!-- React Entry -->
+  <script type="module" src="/src/main.jsx"></script>
+
+  <!-- Auth Tabs -->
+  <script>
+    const switchTab = (tab) => {
+      document.querySelectorAll('.auth-tab').forEach(t =>
+        t.classList.toggle('active', t.dataset.tab === tab)
+      );
+
+      document.querySelectorAll('.form-panel').forEach(p =>
+        p.classList.remove('active')
+      );
+
+      document.getElementById(tab + 'Panel').classList.add('active');
+    };
+
+    document.querySelectorAll('.auth-tab').forEach(t =>
+      t.addEventListener('click', () => switchTab(t.dataset.tab))
+    );
+
+    const handleLogin = () => {
+      showToast('✦ Login coming soon — backend integration needed');
+    };
+
+    const handleRegister = () => {
+      showToast('✦ Account created! Redirecting...');
+    };
+  </script>
+
+</body>
+
+</html>

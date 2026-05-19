@@ -1,0 +1,2389 @@
+[{
+  "_id": {
+    "$oid": "69f4c12f1026c1a24be6345e"
+  },
+  "name": "Diamond Solitaire Ring +1 more",
+  "products": [
+    {
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "qty": 1
+    },
+    {
+      "name": "Gold Twisted Bangle",
+      "price": 18500,
+      "qty": 1
+    }
+  ],
+  "amount": 66434,
+  "customer": "Diya Patel",
+  "email": "diyacmp@gmail.com",
+  "status": "Paid",
+  "date": {
+    "$date": "2026-05-01T15:05:19.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f6eb8a4c30fc93b895c730"
+  },
+  "name": "Diamond Solitaire Ring +1 more",
+  "products": [
+    {
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "qty": 1
+    },
+    {
+      "name": "Gold Twisted Bangle",
+      "price": 18500,
+      "qty": 1
+    }
+  ],
+  "amount": 66434,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Paid",
+  "date": {
+    "$date": "2026-05-03T06:30:34.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f6f2da4c30fc93b895c77a"
+  },
+  "name": "Diamond Solitaire Ring +1 more",
+  "products": [
+    {
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "qty": 1
+    },
+    {
+      "name": "Gold Twisted Bangle",
+      "price": 18500,
+      "qty": 1
+    }
+  ],
+  "amount": 66434,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Paid",
+  "date": {
+    "$date": "2026-05-03T07:01:46.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f6f432390194dce5df17a1"
+  },
+  "name": "Diamond Solitaire Ring",
+  "products": [
+    {
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "qty": 1
+    }
+  ],
+  "amount": 47379,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Paid",
+  "date": {
+    "$date": "2026-05-03T07:07:30.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f72be8b54fa88edca99b77"
+  },
+  "name": "Diamond Solitaire Ring",
+  "products": [
+    {
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "qty": 1
+    }
+  ],
+  "amount": 47379,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Pending",
+  "date": {
+    "$date": "2026-05-03T11:05:12.314Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f72c67b54fa88edca99b88"
+  },
+  "name": "Diamond Solitaire Ring",
+  "products": [
+    {
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "qty": 1
+    }
+  ],
+  "amount": 47379,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Pending",
+  "date": {
+    "$date": "2026-05-03T11:07:19.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f72c85b54fa88edca99b92"
+  },
+  "name": "Diamond Solitaire Ring",
+  "products": [
+    {
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "qty": 1
+    }
+  ],
+  "amount": 47379,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Pending",
+  "date": {
+    "$date": "2026-05-03T11:07:49.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f72eb54fcd6f6c41a4bc4c"
+  },
+  "name": "Diamond Solitaire Ring",
+  "products": [
+    {
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "qty": 1
+    }
+  ],
+  "amount": 47379,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Pending",
+  "date": {
+    "$date": "2026-05-03T11:17:09.253Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f732a0697a99d0d62905b2"
+  },
+  "name": "Diamond Solitaire Ring",
+  "products": [
+    {
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "qty": 1
+    }
+  ],
+  "amount": 47379,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Pending",
+  "date": {
+    "$date": "2026-05-03T11:33:52.595Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f73371d9a8b2f7a0a8facb"
+  },
+  "name": "Diamond Solitaire Ring",
+  "products": [
+    {
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "qty": 1
+    }
+  ],
+  "amount": 47379,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Pending",
+  "date": {
+    "$date": "2026-05-03T11:37:21.924Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f734990b2e65bbfbbf3c84"
+  },
+  "name": "Diamond Solitaire Ring +1 more",
+  "products": [
+    {
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "qty": 1
+    },
+    {
+      "name": "Gold Twisted Bangle",
+      "price": 18500,
+      "qty": 1
+    }
+  ],
+  "amount": 66434,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Pending",
+  "date": {
+    "$date": "2026-05-03T11:42:17.502Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f735000ec252a399662107"
+  },
+  "name": "Diamond Solitaire Ring +1 more",
+  "products": [
+    {
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "qty": 1
+    },
+    {
+      "name": "Gold Twisted Bangle",
+      "price": 18500,
+      "qty": 1
+    }
+  ],
+  "amount": 66434,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Pending",
+  "date": {
+    "$date": "2026-05-03T11:44:00.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f735450ec252a399662127"
+  },
+  "name": "Diamond Solitaire Ring +1 more",
+  "products": [
+    {
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "qty": 1
+    },
+    {
+      "name": "Gold Twisted Bangle",
+      "price": 18500,
+      "qty": 1
+    }
+  ],
+  "amount": 66434,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Pending",
+  "date": {
+    "$date": "2026-05-03T11:45:09.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f735ea0ec252a39966216e"
+  },
+  "name": "Diamond Solitaire Ring +1 more",
+  "products": [
+    {
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "qty": 1
+    },
+    {
+      "name": "Gold Twisted Bangle",
+      "price": 18500,
+      "qty": 1
+    }
+  ],
+  "amount": 66434,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Pending",
+  "date": {
+    "$date": "2026-05-03T11:47:54.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f737070ec252a3996621ed"
+  },
+  "name": "Diamond Solitaire Ring +1 more",
+  "products": [
+    {
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "qty": 1
+    },
+    {
+      "name": "Gold Twisted Bangle",
+      "price": 18500,
+      "qty": 1
+    }
+  ],
+  "amount": 66434,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Pending",
+  "date": {
+    "$date": "2026-05-03T11:52:39.966Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f7378d0ec252a399662228"
+  },
+  "name": "Diamond Solitaire Ring +1 more",
+  "products": [
+    {
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "qty": 1
+    },
+    {
+      "name": "Gold Twisted Bangle",
+      "price": 18500,
+      "qty": 1
+    }
+  ],
+  "amount": 66434,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Pending",
+  "date": {
+    "$date": "2026-05-03T11:54:53.961Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f737fe0ec252a399662264"
+  },
+  "name": "Diamond Solitaire Ring +1 more",
+  "products": [
+    {
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "qty": 1
+    },
+    {
+      "name": "Gold Twisted Bangle",
+      "price": 18500,
+      "qty": 1
+    }
+  ],
+  "amount": 66434,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Pending",
+  "date": {
+    "$date": "2026-05-03T11:56:46.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f738a54c77f3d2f9739842"
+  },
+  "name": "Gold Twisted Bangle",
+  "products": [
+    {
+      "name": "Gold Twisted Bangle",
+      "price": 18500,
+      "qty": 1
+    }
+  ],
+  "amount": 19055,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Pending",
+  "date": {
+    "$date": "2026-05-03T11:59:33.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f73a292e55e1c24a4091b0"
+  },
+  "name": "Jewellery Order",
+  "products": [],
+  "amount": 1000,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Failed",
+  "date": {
+    "$date": "2026-05-03T12:06:01.351Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f73d52b1b181b9c67a6890"
+  },
+  "name": "Jewellery Order",
+  "products": [],
+  "amount": 1000,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Failed",
+  "date": {
+    "$date": "2026-05-03T12:19:30.555Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f74496cab3d3411b8df1a1"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "id": 2,
+      "name": "Gold Twisted Bangle",
+      "price": 18500,
+      "oldPrice": 22000,
+      "icon": "🏅",
+      "category": "bracelets",
+      "badge": "New",
+      "qty": 1
+    }
+  ],
+  "amount": 19055,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Failed",
+  "date": {
+    "$date": "2026-05-03T12:50:30.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f744a9cab3d3411b8df1ae"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "id": 2,
+      "name": "Gold Twisted Bangle",
+      "price": 18500,
+      "oldPrice": 22000,
+      "icon": "🏅",
+      "category": "bracelets",
+      "badge": "New",
+      "qty": 1
+    }
+  ],
+  "amount": 19055,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Failed",
+  "date": {
+    "$date": "2026-05-03T12:50:49.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f744b6cab3d3411b8df1b8"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "id": 2,
+      "name": "Gold Twisted Bangle",
+      "price": 18500,
+      "oldPrice": 22000,
+      "icon": "🏅",
+      "category": "bracelets",
+      "badge": "New",
+      "qty": 1
+    }
+  ],
+  "amount": 19055,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Failed",
+  "date": {
+    "$date": "2026-05-03T12:51:02.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f74602cab3d3411b8df1fc"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "id": 2,
+      "name": "Gold Twisted Bangle",
+      "price": 18500,
+      "oldPrice": 22000,
+      "icon": "🏅",
+      "category": "bracelets",
+      "badge": "New",
+      "qty": 1
+    }
+  ],
+  "amount": 19055,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Paid",
+  "date": {
+    "$date": "2026-05-03T12:56:34.458Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_Skto5iDXRr2QoU",
+  "razorpayOrderId": "order_Sktnv6nu8oJEQF"
+},
+{
+  "_id": {
+    "$oid": "69f748853f8a733d576da738"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "id": 2,
+      "name": "Gold Twisted Bangle",
+      "price": 18500,
+      "oldPrice": 22000,
+      "icon": "🏅",
+      "category": "bracelets",
+      "badge": "New",
+      "qty": 1
+    }
+  ],
+  "amount": 19055,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Paid",
+  "date": {
+    "$date": "2026-05-03T13:07:17.363Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SktzlbSw2HtItv",
+  "razorpayOrderId": "order_SktzEtqLVY42C5"
+},
+{
+  "_id": {
+    "$oid": "69f767163f8a733d576dab05"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "id": 3,
+      "name": "Pearl Drop Earrings",
+      "price": 4200,
+      "oldPrice": 5500,
+      "icon": "✨",
+      "category": "earrings",
+      "badge": "",
+      "qty": 1
+    }
+  ],
+  "amount": 4326,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Failed",
+  "date": {
+    "$date": "2026-05-03T15:17:42.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f768d33f8a733d576dab44"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "id": 3,
+      "name": "Pearl Drop Earrings",
+      "price": 4200,
+      "oldPrice": 5500,
+      "icon": "✨",
+      "category": "earrings",
+      "badge": "",
+      "qty": 1
+    }
+  ],
+  "amount": 4326,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Failed",
+  "date": {
+    "$date": "2026-05-03T15:25:07.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f76a1cbc9f9bed6eb2cba9"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "id": 3,
+      "name": "Pearl Drop Earrings",
+      "price": 4200,
+      "oldPrice": 5500,
+      "icon": "✨",
+      "category": "earrings",
+      "badge": "",
+      "qty": 1
+    }
+  ],
+  "amount": 4326,
+  "customer": "Diya",
+  "email": "diyacmp@gmail.com",
+  "status": "Paid",
+  "date": {
+    "$date": "2026-05-03T15:30:36.995Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SkxCGvimzRO3gc",
+  "razorpayOrderId": "order_SkwQg8GsJt8QRk"
+},
+{
+  "_id": {
+    "$oid": "69f792426e880ec58c48db95"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "id": 1,
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "oldPrice": 52000,
+      "icon": "💍",
+      "category": "rings",
+      "badge": "Bestseller",
+      "qty": 1
+    },
+    {
+      "id": 3,
+      "name": "Pearl Drop Earrings",
+      "price": 4200,
+      "oldPrice": 5500,
+      "icon": "✨",
+      "category": "earrings",
+      "badge": "",
+      "qty": 1
+    },
+    {
+      "id": 2,
+      "name": "Gold Twisted Bangle",
+      "price": 18500,
+      "oldPrice": 22000,
+      "icon": "🏅",
+      "category": "bracelets",
+      "badge": "New",
+      "qty": 1
+    }
+  ],
+  "amount": 70760,
+  "customer": "manav shah",
+  "email": "shahmanav2901@gmail.com",
+  "status": "Paid",
+  "date": {
+    "$date": "2026-05-03T18:21:54.261Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SkzLkrdIK5fzgt",
+  "razorpayOrderId": "order_SkzLcCgfjMEUva"
+},
+{
+  "_id": {
+    "$oid": "69f83a6be3666a8b810de2ac"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "id": 1,
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "oldPrice": 52000,
+      "icon": "💍",
+      "category": "rings",
+      "badge": "Bestseller",
+      "qty": 1
+    }
+  ],
+  "amount": 47379,
+  "customer": "Diya Patel",
+  "email": "diyacmp@gmail.com",
+  "status": "Paid",
+  "date": {
+    "$date": "2026-05-04T06:19:23.106Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SlBZiKkjAvAXHp",
+  "razorpayOrderId": "order_SlBZWhzcit4UbT",
+  "deliveryStatus": "Packaging"
+},
+{
+  "_id": {
+    "$oid": "69fb16cf38745f9b511a8562"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "id": 2,
+      "name": "Gold Twisted Bangle",
+      "price": 18500,
+      "oldPrice": 22000,
+      "icon": "🏅",
+      "category": "bracelets",
+      "badge": "New",
+      "qty": 1
+    }
+  ],
+  "amount": 19055,
+  "customer": "Vraj patel",
+  "email": "vrajpatel123@gmail.com",
+  "status": "Paid",
+  "date": {
+    "$date": "2026-05-06T10:24:15.027Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_Sm2oYXWPvSHVpT",
+  "razorpayOrderId": "order_Sm2oQ3QQ80t92q",
+  "deliveryStatus": "Delivered",
+  "deliveredAt": {
+    "$date": "2026-05-06T12:46:45.506Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69fb97aff466203836805993"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "id": 1,
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "oldPrice": 52000,
+      "icon": "💍",
+      "category": "rings",
+      "badge": "Bestseller",
+      "qty": 1
+    }
+  ],
+  "amount": 47379,
+  "customer": "manav shah",
+  "email": "shahmanav2901@gmail.com",
+  "status": "Failed",
+  "deliveryStatus": "Processing",
+  "date": {
+    "$date": "2026-05-06T19:34:07.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fb97c2f46620383680599b"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "id": 1,
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "oldPrice": 52000,
+      "icon": "💍",
+      "category": "rings",
+      "badge": "Bestseller",
+      "qty": 1
+    }
+  ],
+  "amount": 47379,
+  "customer": "manav shah",
+  "email": "shahmanav2901@gmail.com",
+  "status": "Paid",
+  "deliveryStatus": "Processing",
+  "date": {
+    "$date": "2026-05-06T19:34:26.221Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SmCBh1zWaku4E6",
+  "razorpayOrderId": "order_SmCBaqF5kJyIat"
+},
+{
+  "_id": {
+    "$oid": "69fb98d7f4662038368059c1"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "id": 1,
+      "name": "Diamond Solitaire Ring",
+      "price": 45999,
+      "oldPrice": 52000,
+      "icon": "💍",
+      "category": "rings",
+      "badge": "Bestseller",
+      "qty": 1
+    }
+  ],
+  "amount": 47379,
+  "customer": "manav shah",
+  "email": "shahmanav2901@gmail.com",
+  "status": "Paid",
+  "deliveryStatus": "Delivered",
+  "date": {
+    "$date": "2026-05-06T19:39:03.955Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SmCGyC64p4YNWA",
+  "razorpayOrderId": "order_SmCGU0uD2lMkMu",
+  "deliveredAt": {
+    "$date": "2026-05-06T19:41:24.753Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69fddb548888310392e42a45"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c7",
+      "name": "Gold Bracelet",
+      "price": 15999,
+      "images": [
+        "/uploads/products/bracelet.png"
+      ],
+      "category": "bracelets",
+      "qty": 1
+    }
+  ],
+  "amount": 16479,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "status": "Paid",
+  "deliveryStatus": "Packaging",
+  "date": {
+    "$date": "2026-05-08T12:47:16.985Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SmtOFgW9qy8fJD",
+  "razorpayOrderId": "order_SmtO9nJaTJpE56"
+},
+{
+  "_id": {
+    "$oid": "69fddb638888310392e42a4a"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c7",
+      "name": "Gold Bracelet",
+      "price": 15999,
+      "images": [
+        "/uploads/products/bracelet.png"
+      ],
+      "category": "bracelets",
+      "qty": 1
+    }
+  ],
+  "amount": 16479,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "status": "Paid",
+  "deliveryStatus": "Shipped",
+  "date": {
+    "$date": "2026-05-08T12:47:31.811Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SmsK7sy3WoWhXa",
+  "razorpayOrderId": "order_SmsK0xpjFxJdfW"
+},
+{
+  "_id": {
+    "$oid": "69fdde638888310392e42a9f"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c5",
+      "name": "Diamond Necklace",
+      "price": 59999,
+      "images": [
+        "/uploads/products/necklace.png"
+      ],
+      "category": "necklaces",
+      "qty": 1
+    }
+  ],
+  "amount": 61799,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "status": "Paid",
+  "deliveryStatus": "Shipped",
+  "date": {
+    "$date": "2026-05-08T13:00:19.647Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SmsXc3IkNuP4ON",
+  "razorpayOrderId": "order_SmsXX2KOOZ6tGk"
+},
+{
+  "_id": {
+    "$oid": "69fe0b4d46c42f361eb73af1"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69fde30f83d1d323063d5093",
+      "name": "Gold Bracelet",
+      "price": 15999,
+      "images": [
+        "/uploads/products/bracelet.png"
+      ],
+      "category": "bracelets",
+      "qty": 1
+    }
+  ],
+  "amount": 16479,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "status": "Paid",
+  "deliveryStatus": "Processing",
+  "date": {
+    "$date": "2026-05-08T16:11:57.164Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_Smvo5x7m6mhWWp",
+  "razorpayOrderId": "order_SmvnwvjOy5dNxP"
+},
+{
+  "_id": {
+    "$oid": "69fe37930282a004ee4c014b"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c4",
+      "name": "Royal Gold Ring",
+      "price": 19999,
+      "images": [
+        "/uploads/products/ring.png"
+      ],
+      "category": "rings",
+      "qty": 1
+    },
+    {
+      "_id": "69e0d9e77f6d282dca7659c5",
+      "name": "Diamond Necklace",
+      "price": 59999,
+      "images": [
+        "/uploads/products/necklace.png"
+      ],
+      "category": "necklaces",
+      "qty": 1
+    },
+    {
+      "_id": "69fdf37383d1d323063d5097",
+      "name": "Royal Gold Bangles",
+      "price": 24999,
+      "images": [
+        "/uploads/products/bangles.png"
+      ],
+      "category": "bangles",
+      "qty": 1
+    },
+    {
+      "_id": "69fdf39783d1d323063d5098",
+      "name": "Diamond Pendant",
+      "price": 12999,
+      "images": [
+        "/uploads/products/pendants.png"
+      ],
+      "category": "pendants",
+      "qty": 1
+    }
+  ],
+  "amount": 121536,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "status": "Failed",
+  "deliveryStatus": "Processing",
+  "date": {
+    "$date": "2026-05-08T19:20:51.365Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fe39630282a004ee4c0158"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c4",
+      "name": "Royal Gold Ring",
+      "price": 19999,
+      "images": [
+        "/uploads/products/ring.png"
+      ],
+      "category": "rings",
+      "qty": 1
+    },
+    {
+      "_id": "69e0d9e77f6d282dca7659c5",
+      "name": "Diamond Necklace",
+      "price": 59999,
+      "images": [
+        "/uploads/products/necklace.png"
+      ],
+      "category": "necklaces",
+      "qty": 1
+    },
+    {
+      "_id": "69fdf37383d1d323063d5097",
+      "name": "Royal Gold Bangles",
+      "price": 24999,
+      "images": [
+        "/uploads/products/bangles.png"
+      ],
+      "category": "bangles",
+      "qty": 1
+    },
+    {
+      "_id": "69fdf39783d1d323063d5098",
+      "name": "Diamond Pendant",
+      "price": 12999,
+      "images": [
+        "/uploads/products/pendants.png"
+      ],
+      "category": "pendants",
+      "qty": 1
+    }
+  ],
+  "amount": 121536,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "status": "Failed",
+  "deliveryStatus": "Processing",
+  "date": {
+    "$date": "2026-05-08T19:28:35.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fe3a04609d3e79e2ae5d8e"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c4",
+      "name": "Royal Gold Ring",
+      "price": 19999,
+      "images": [
+        "/uploads/products/ring.png"
+      ],
+      "category": "rings",
+      "qty": 1
+    },
+    {
+      "_id": "69e0d9e77f6d282dca7659c5",
+      "name": "Diamond Necklace",
+      "price": 59999,
+      "images": [
+        "/uploads/products/necklace.png"
+      ],
+      "category": "necklaces",
+      "qty": 1
+    },
+    {
+      "_id": "69fdf37383d1d323063d5097",
+      "name": "Royal Gold Bangles",
+      "price": 24999,
+      "images": [
+        "/uploads/products/bangles.png"
+      ],
+      "category": "bangles",
+      "qty": 1
+    },
+    {
+      "_id": "69fdf39783d1d323063d5098",
+      "name": "Diamond Pendant",
+      "price": 12999,
+      "images": [
+        "/uploads/products/pendants.png"
+      ],
+      "category": "pendants",
+      "qty": 1
+    }
+  ],
+  "amount": 121536,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "status": "Paid",
+  "deliveryStatus": "Processing",
+  "date": {
+    "$date": "2026-05-08T19:31:16.424Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SmzCaBm8pTapsS",
+  "razorpayOrderId": "order_SmzCV3YLNBR8qh"
+},
+{
+  "_id": {
+    "$oid": "69fe3a84609d3e79e2ae5d9e"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c6",
+      "name": "Silver Earrings",
+      "price": 2999,
+      "images": [
+        "/uploads/products/earrings.png"
+      ],
+      "category": "earrings",
+      "qty": 1
+    },
+    {
+      "_id": "69e0d9e77f6d282dca7659c5",
+      "name": "Diamond Necklace",
+      "price": 59999,
+      "images": [
+        "/uploads/products/necklace.png"
+      ],
+      "category": "necklaces",
+      "qty": 1
+    },
+    {
+      "_id": "69e0d9e77f6d282dca7659c4",
+      "name": "Royal Gold Ring",
+      "price": 19999,
+      "images": [
+        "/uploads/products/ring.png"
+      ],
+      "category": "rings",
+      "qty": 3
+    },
+    {
+      "_id": "69fdf37383d1d323063d5097",
+      "name": "Royal Gold Bangles",
+      "price": 24999,
+      "images": [
+        "/uploads/products/bangles.png"
+      ],
+      "category": "bangles",
+      "qty": 1
+    },
+    {
+      "_id": "69fde30f83d1d323063d5093",
+      "name": "Gold Bracelet",
+      "price": 15999,
+      "images": [
+        "/uploads/products/bracelet.png"
+      ],
+      "category": "bracelets",
+      "qty": 1
+    },
+    {
+      "_id": "69fdf39783d1d323063d5098",
+      "name": "Diamond Pendant",
+      "price": 12999,
+      "images": [
+        "/uploads/products/pendants.png"
+      ],
+      "category": "pendants",
+      "qty": 1
+    }
+  ],
+  "amount": 182302,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "status": "Paid",
+  "deliveryStatus": "Processing",
+  "date": {
+    "$date": "2026-05-08T19:33:24.512Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SmzEomFFUysPxw",
+  "razorpayOrderId": "order_SmzEkq7ANBIMpY"
+},
+{
+  "_id": {
+    "$oid": "69fe3b36609d3e79e2ae5db1"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c6",
+      "name": "Silver Earrings",
+      "price": 2999,
+      "images": [
+        "/uploads/products/earrings.png"
+      ],
+      "category": "earrings",
+      "qty": 1
+    },
+    {
+      "_id": "69e0d9e77f6d282dca7659c5",
+      "name": "Diamond Necklace",
+      "price": 59999,
+      "images": [
+        "/uploads/products/necklace.png"
+      ],
+      "category": "necklaces",
+      "qty": 1
+    },
+    {
+      "_id": "69e0d9e77f6d282dca7659c4",
+      "name": "Royal Gold Ring",
+      "price": 19999,
+      "images": [
+        "/uploads/products/ring.png"
+      ],
+      "category": "rings",
+      "qty": 1
+    },
+    {
+      "_id": "69fde30f83d1d323063d5093",
+      "name": "Gold Bracelet",
+      "price": 15999,
+      "images": [
+        "/uploads/products/bracelet.png"
+      ],
+      "category": "bracelets",
+      "qty": 1
+    },
+    {
+      "_id": "69fdf37383d1d323063d5097",
+      "name": "Royal Gold Bangles",
+      "price": 24999,
+      "images": [
+        "/uploads/products/bangles.png"
+      ],
+      "category": "bangles",
+      "qty": 1
+    },
+    {
+      "_id": "69fdf39783d1d323063d5098",
+      "name": "Diamond Pendant",
+      "price": 12999,
+      "images": [
+        "/uploads/products/pendants.png"
+      ],
+      "category": "pendants",
+      "qty": 1
+    }
+  ],
+  "amount": 141104,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "status": "Failed",
+  "deliveryStatus": "Processing",
+  "date": {
+    "$date": "2026-05-08T19:36:22.929Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69fe3e37609d3e79e2ae5dd5"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c5",
+      "name": "Diamond Necklace",
+      "price": 59999,
+      "images": [
+        "/uploads/products/necklace.png"
+      ],
+      "category": "necklaces",
+      "qty": 1
+    },
+    {
+      "_id": "69e0d9e77f6d282dca7659c4",
+      "name": "Royal Gold Ring",
+      "price": 19999,
+      "images": [
+        "/uploads/products/ring.png"
+      ],
+      "category": "rings",
+      "qty": 1
+    }
+  ],
+  "amount": 82398,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "status": "Failed",
+  "deliveryStatus": "Processing",
+  "date": {
+    "$date": "2026-05-08T19:49:11.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ff2ddc8b6317ca4468fb6b"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c4",
+      "name": "Royal Gold Ring",
+      "price": 19999,
+      "images": [
+        "/uploads/products/ring.png"
+      ],
+      "category": "rings",
+      "qty": 1
+    }
+  ],
+  "amount": 20598.97,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "address": {
+    "fullName": "jaydeep",
+    "phone": "9328503992",
+    "altPhone": "1234567890",
+    "address": "furfujfr",
+    "_id": "69fddb4f8888310392e42a3f"
+  },
+  "status": "Paid",
+  "deliveryStatus": "Returned",
+  "refundStatus": "Refunded",
+  "date": {
+    "$date": "2026-05-09T12:51:40.182Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SnGve5le8o9GRl",
+  "razorpayOrderId": "order_SnGvV9fj8mY7P6"
+},
+{
+  "_id": {
+    "$oid": "69ff609d754f19a8d57b3b0b"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c5",
+      "name": "Diamond Necklace",
+      "price": 59999,
+      "images": [
+        "/uploads/products/necklace.png"
+      ],
+      "category": "necklaces",
+      "qty": 1
+    }
+  ],
+  "amount": 61798.97,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "address": {
+    "fullName": "jaydeep",
+    "phone": "9106598600",
+    "altPhone": "9328503992",
+    "address": "a/14sadbhav,apartment near srag tennis academy, gurukul , ahmedabad-380062",
+    "city": "Ahmedabad",
+    "_id": "69ff04fd9b9eb77019dfe134"
+  },
+  "status": "Paid",
+  "deliveryStatus": "Processing",
+  "refundStatus": "Not Refunded",
+  "date": {
+    "$date": "2026-05-09T16:28:13.485Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SnKcPZOch9FDIx",
+  "razorpayOrderId": "order_SnKcFjF3rgjNSC"
+},
+{
+  "_id": {
+    "$oid": "69ff614c754f19a8d57b3b22"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c6",
+      "name": "Silver Earrings",
+      "price": 2999,
+      "images": [
+        "/uploads/products/earrings.png"
+      ],
+      "category": "earrings",
+      "qty": 1
+    }
+  ],
+  "amount": 3088.97,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "address": {
+    "fullName": "jaydeep",
+    "phone": "9328503992",
+    "altPhone": "1234567890",
+    "address": "furfujfr",
+    "_id": "69fddb4f8888310392e42a3f"
+  },
+  "status": "Failed",
+  "deliveryStatus": "Processing",
+  "refundStatus": "Not Refunded",
+  "date": {
+    "$date": "2026-05-09T16:31:08.003Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ff61a3754f19a8d57b3b53"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c6",
+      "name": "Silver Earrings",
+      "price": 2999,
+      "images": [
+        "/uploads/products/earrings.png"
+      ],
+      "category": "earrings",
+      "qty": 1
+    }
+  ],
+  "amount": 3088.97,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "address": {
+    "fullName": "knriemr`",
+    "phone": "9959595982",
+    "altPhone": "1593687423",
+    "address": "smf f",
+    "city": "mumbai",
+    "_id": "69ff618f754f19a8d57b3b44"
+  },
+  "status": "Paid",
+  "deliveryStatus": "Processing",
+  "refundStatus": "Not Refunded",
+  "date": {
+    "$date": "2026-05-09T16:32:35.877Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SnKh1mxFw8tezF",
+  "razorpayOrderId": "order_SnKgs2g9yR5tgo"
+},
+{
+  "_id": {
+    "$oid": "69ff6c89754f19a8d57b3c08"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c6",
+      "name": "Silver Earrings",
+      "price": 2999,
+      "images": [
+        "/uploads/products/earrings.png"
+      ],
+      "category": "earrings",
+      "qty": 1
+    }
+  ],
+  "amount": 3088.97,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "address": {
+    "fullName": "manav",
+    "phone": "1234567892",
+    "altPhone": "1235896598",
+    "address": "near sola bridge, Beside JG School,ghatlodiya,ahmedabad-380060",
+    "city": "Mumbai",
+    "_id": "69ff6355754f19a8d57b3ba0"
+  },
+  "status": "Paid",
+  "deliveryStatus": "Processing",
+  "refundStatus": "Not Refunded",
+  "date": {
+    "$date": "2026-05-09T17:19:05.319Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SnLU5UpYV2QPaU",
+  "razorpayOrderId": "order_SnLTytC1IQXUvx"
+},
+{
+  "_id": {
+    "$oid": "69ff6cdb754f19a8d57b3c2b"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c6",
+      "name": "Silver Earrings",
+      "price": 2999,
+      "images": [
+        "/uploads/products/earrings.png"
+      ],
+      "category": "earrings",
+      "qty": 1
+    }
+  ],
+  "amount": 3088.97,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "address": {
+    "fullName": "jaydeep",
+    "phone": "9328503992",
+    "altPhone": "4566679988",
+    "address": "A/14sadbhav,apartment near srag tennis academy, gurukul , ahmedabad-380062",
+    "city": "Ahmedabad",
+    "_id": "69ff04fd9b9eb77019dfe134"
+  },
+  "status": "Paid",
+  "deliveryStatus": "Processing",
+  "refundStatus": "Not Refunded",
+  "date": {
+    "$date": "2026-05-09T17:20:27.124Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SnLVYbojUNfCqR",
+  "razorpayOrderId": "order_SnLVQB5J5Li9Ol"
+},
+{
+  "_id": {
+    "$oid": "69ff6de5754f19a8d57b3c72"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c6",
+      "name": "Silver Earrings",
+      "price": 2999,
+      "images": [
+        "/uploads/products/earrings.png"
+      ],
+      "category": "earrings",
+      "qty": 1
+    }
+  ],
+  "amount": 3088.97,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "address": {
+    "fullName": "jaydeep",
+    "phone": "9328503992",
+    "altPhone": "4566679988",
+    "address": "A/14sadbhav,apartment near srag tennis academy, gurukul , ahmedabad-380062",
+    "city": "Ahmedabad",
+    "_id": "69ff04fd9b9eb77019dfe134"
+  },
+  "status": "Failed",
+  "deliveryStatus": "Processing",
+  "refundStatus": "Not Refunded",
+  "date": {
+    "$date": "2026-05-09T17:24:53.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69ff6def754f19a8d57b3c75"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c6",
+      "name": "Silver Earrings",
+      "price": 2999,
+      "images": [
+        "/uploads/products/earrings.png"
+      ],
+      "category": "earrings",
+      "qty": 1
+    }
+  ],
+  "amount": 3088.97,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "address": {
+    "fullName": "manav",
+    "phone": "1234567892",
+    "altPhone": "1235896598",
+    "address": "near sola bridge, Beside JG School,ghatlodiya,ahmedabad-380060",
+    "city": "Mumbai",
+    "_id": "69ff6355754f19a8d57b3ba0"
+  },
+  "status": "Paid",
+  "deliveryStatus": "Processing",
+  "refundStatus": "Not Refunded",
+  "date": {
+    "$date": "2026-05-09T17:25:03.130Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SnLaLHkQOILvUL",
+  "razorpayOrderId": "order_SnLaHPebhJ3Jgu"
+},
+{
+  "_id": {
+    "$oid": "69ff6e3c754f19a8d57b3c8e"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c6",
+      "name": "Silver Earrings",
+      "price": 2999,
+      "images": [
+        "/uploads/products/earrings.png"
+      ],
+      "category": "earrings",
+      "qty": 1
+    }
+  ],
+  "amount": 3088.97,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "address": {
+    "fullName": "manav",
+    "phone": "1234567892",
+    "altPhone": "1235896598",
+    "address": "near sola bridge, Beside JG School,ghatlodiya,ahmedabad-380060",
+    "city": "Mumbai",
+    "_id": "69ff6355754f19a8d57b3ba0"
+  },
+  "status": "Paid",
+  "deliveryStatus": "Processing",
+  "refundStatus": "Not Refunded",
+  "date": {
+    "$date": "2026-05-09T17:26:20.082Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SnLbhk1MxLPpnn",
+  "razorpayOrderId": "order_SnLbdXKjRZMdpa"
+},
+{
+  "_id": {
+    "$oid": "6a004931192745a438d17460"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "ratings": {
+        "average": 0,
+        "count": 0
+      },
+      "_id": "69e0d9e77f6d282dca7659c6",
+      "name": "Silver Earrings",
+      "slug": "silver-earrings",
+      "description": "Stylish silver earrings",
+      "category": "earrings",
+      "metal": "silver",
+      "price": 2999,
+      "mrp": 3999,
+      "images": [
+        "/uploads/products/earrings.png"
+      ],
+      "stock": 13,
+      "sku": "EAR001",
+      "sizes": [],
+      "tags": [
+        "silver",
+        "earrings"
+      ],
+      "isFeatured": false,
+      "isActive": true,
+      "salesCount": 7,
+      "specs": [],
+      "__v": 0,
+      "createdAt": "2026-04-16T12:45:27.465Z",
+      "updatedAt": "2026-05-09T17:26:45.710Z",
+      "quantity": 1,
+      "qty": 4
+    }
+  ],
+  "amount": 12355.88,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "address": {
+    "fullName": "jaydeep",
+    "phone": "9328503992",
+    "altPhone": "4566679988",
+    "address": "A/14sadbhav,apartment near srag tennis academy, gurukul , ahmedabad-380062",
+    "city": "Ahmedabad",
+    "_id": "69ff04fd9b9eb77019dfe134"
+  },
+  "status": "Failed",
+  "deliveryStatus": "Processing",
+  "refundStatus": "Not Refunded",
+  "date": {
+    "$date": "2026-05-10T09:00:33.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a005287192745a438d1747a"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "ratings": {
+        "average": 0,
+        "count": 0
+      },
+      "_id": "69e0d9e77f6d282dca7659c5",
+      "name": "Diamond Necklace",
+      "slug": "diamond-necklace",
+      "description": "Luxury diamond necklace",
+      "category": "necklaces",
+      "metal": "gold",
+      "karat": "18K",
+      "price": 59999,
+      "mrp": 69999,
+      "images": [
+        "/uploads/products/necklace.png"
+      ],
+      "stock": 0,
+      "sku": "NECK001",
+      "sizes": [],
+      "tags": [
+        "diamond",
+        "necklace"
+      ],
+      "isFeatured": true,
+      "isActive": true,
+      "salesCount": 5,
+      "specs": [],
+      "__v": 0,
+      "createdAt": "2026-04-16T12:45:27.465Z",
+      "updatedAt": "2026-05-09T16:28:40.208Z",
+      "qty": 1
+    }
+  ],
+  "amount": 61798.97,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "address": {
+    "fullName": "jaydeep",
+    "phone": "9328503992",
+    "altPhone": "4566679988",
+    "address": "A/14sadbhav,apartment near srag tennis academy, gurukul , ahmedabad-380062",
+    "city": "Ahmedabad",
+    "_id": "69ff04fd9b9eb77019dfe134"
+  },
+  "status": "Paid",
+  "deliveryStatus": "Processing",
+  "refundStatus": "Not Refunded",
+  "date": {
+    "$date": "2026-05-10T09:40:23.716Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SncGDjQene9Z1o",
+  "razorpayOrderId": "order_SncCZ12oaaV5y5"
+},
+{
+  "_id": {
+    "$oid": "6a005381192745a438d17488"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "ratings": {
+        "average": 0,
+        "count": 0
+      },
+      "_id": "69e0d9e77f6d282dca7659c5",
+      "name": "Diamond Necklace",
+      "slug": "diamond-necklace",
+      "description": "Luxury diamond necklace",
+      "category": "necklaces",
+      "metal": "gold",
+      "karat": "18K",
+      "price": 59999,
+      "mrp": 69999,
+      "images": [
+        "/uploads/products/necklace.png"
+      ],
+      "stock": -1,
+      "sku": "NECK001",
+      "sizes": [],
+      "tags": [
+        "diamond",
+        "necklace"
+      ],
+      "isFeatured": true,
+      "isActive": true,
+      "salesCount": 6,
+      "specs": [],
+      "__v": 0,
+      "createdAt": "2026-04-16T12:45:27.465Z",
+      "updatedAt": "2026-05-10T09:44:08.236Z",
+      "qty": 1
+    }
+  ],
+  "amount": 61798.97,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "address": {
+    "fullName": "jaydeep",
+    "phone": "9328503992",
+    "altPhone": "4566679988",
+    "address": "A/14sadbhav,apartment near srag tennis academy, gurukul , ahmedabad-380062",
+    "city": "Ahmedabad",
+    "_id": "69ff04fd9b9eb77019dfe134"
+  },
+  "status": "Failed",
+  "deliveryStatus": "Processing",
+  "refundStatus": "Not Refunded",
+  "date": {
+    "$date": "2026-05-10T09:44:33.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a005398192745a438d1748e"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "ratings": {
+        "average": 0,
+        "count": 0
+      },
+      "_id": "69e0d9e77f6d282dca7659c5",
+      "name": "Diamond Necklace",
+      "slug": "diamond-necklace",
+      "description": "Luxury diamond necklace",
+      "category": "necklaces",
+      "metal": "gold",
+      "karat": "18K",
+      "price": 59999,
+      "mrp": 69999,
+      "images": [
+        "/uploads/products/necklace.png"
+      ],
+      "stock": -1,
+      "sku": "NECK001",
+      "sizes": [],
+      "tags": [
+        "diamond",
+        "necklace"
+      ],
+      "isFeatured": true,
+      "isActive": true,
+      "salesCount": 6,
+      "specs": [],
+      "__v": 0,
+      "createdAt": "2026-04-16T12:45:27.465Z",
+      "updatedAt": "2026-05-10T09:44:08.236Z",
+      "qty": 1
+    }
+  ],
+  "amount": 61798.97,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "address": {
+    "fullName": "manav",
+    "phone": "1234567892",
+    "altPhone": "1235896598",
+    "address": "near sola bridge, Beside JG School,ghatlodiya,ahmedabad-380060",
+    "city": "Mumbai",
+    "_id": "69ff6355754f19a8d57b3ba0"
+  },
+  "status": "Failed",
+  "deliveryStatus": "Processing",
+  "refundStatus": "Not Refunded",
+  "date": {
+    "$date": "2026-05-10T09:44:56.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a00556f192745a438d17495"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "ratings": {
+        "average": 0,
+        "count": 0
+      },
+      "_id": "69e0d9e77f6d282dca7659c5",
+      "name": "Diamond Necklace",
+      "slug": "diamond-necklace",
+      "description": "Luxury diamond necklace",
+      "category": "necklaces",
+      "metal": "gold",
+      "karat": "18K",
+      "price": 59999,
+      "mrp": 69999,
+      "images": [
+        "/uploads/products/necklace.png"
+      ],
+      "stock": -1,
+      "sku": "NECK001",
+      "sizes": [],
+      "tags": [
+        "diamond",
+        "necklace"
+      ],
+      "isFeatured": true,
+      "isActive": true,
+      "salesCount": 6,
+      "specs": [],
+      "__v": 0,
+      "createdAt": "2026-04-16T12:45:27.465Z",
+      "updatedAt": "2026-05-10T09:44:08.236Z",
+      "qty": 1
+    }
+  ],
+  "amount": 61798.97,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "address": {
+    "fullName": "manav",
+    "phone": "1234567892",
+    "altPhone": "1235896598",
+    "address": "near sola bridge, Beside JG School,ghatlodiya,ahmedabad-380060",
+    "city": "Mumbai",
+    "_id": "69ff6355754f19a8d57b3ba0"
+  },
+  "status": "Paid",
+  "deliveryStatus": "Processing",
+  "refundStatus": "Not Refunded",
+  "date": {
+    "$date": "2026-05-10T09:52:47.271Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SncPitd7zCQO6y",
+  "razorpayOrderId": "order_SncPeZ5OVjgfwP"
+},
+{
+  "_id": {
+    "$oid": "6a005591192745a438d174a1"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c5",
+      "name": "Diamond Necklace",
+      "price": 59999,
+      "images": [
+        "/uploads/products/necklace.png"
+      ],
+      "category": "necklaces",
+      "qty": 1
+    },
+    {
+      "_id": "69e0d9e77f6d282dca7659c6",
+      "name": "Silver Earrings",
+      "price": 2999,
+      "images": [
+        "/uploads/products/earrings.png"
+      ],
+      "category": "earrings",
+      "qty": 1
+    }
+  ],
+  "amount": 64887.94,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "address": {
+    "fullName": "jaydeep",
+    "phone": "9328503992",
+    "altPhone": "4566679988",
+    "address": "A/14sadbhav,apartment near srag tennis academy, gurukul , ahmedabad-380062",
+    "city": "Ahmedabad",
+    "_id": "69ff04fd9b9eb77019dfe134"
+  },
+  "status": "Failed",
+  "deliveryStatus": "Processing",
+  "refundStatus": "Not Refunded",
+  "date": {
+    "$date": "2026-05-10T09:53:21.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0055c8192745a438d174ad"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "ratings": {
+        "average": 0,
+        "count": 0
+      },
+      "_id": "69e0d9e77f6d282dca7659c4",
+      "name": "Royal Gold Ring",
+      "slug": "royal-gold-ring",
+      "description": "Elegant handcrafted gold ring",
+      "category": "rings",
+      "metal": "gold",
+      "karat": "22K",
+      "price": 19999,
+      "mrp": 24999,
+      "images": [
+        "/uploads/products/ring.png"
+      ],
+      "stock": 3,
+      "sku": "RING001",
+      "sizes": [],
+      "tags": [
+        "gold",
+        "ring"
+      ],
+      "isFeatured": true,
+      "isActive": true,
+      "salesCount": 7,
+      "specs": [],
+      "__v": 0,
+      "createdAt": "2026-04-16T12:45:27.464Z",
+      "updatedAt": "2026-05-09T12:52:04.410Z",
+      "qty": 1
+    }
+  ],
+  "amount": 20598.97,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "address": {
+    "fullName": "manav",
+    "phone": "1234567892",
+    "altPhone": "1235896598",
+    "address": "near sola bridge, Beside JG School,ghatlodiya,ahmedabad-380060",
+    "city": "Mumbai",
+    "_id": "69ff6355754f19a8d57b3ba0"
+  },
+  "status": "Paid",
+  "deliveryStatus": "Processing",
+  "refundStatus": "Not Refunded",
+  "date": {
+    "$date": "2026-05-10T09:54:16.173Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SncRHqEauxm9oL",
+  "razorpayOrderId": "order_SncRDXK6gXxJoT"
+},
+{
+  "_id": {
+    "$oid": "6a0055e7192745a438d174b9"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c5",
+      "name": "Diamond Necklace",
+      "price": 59999,
+      "images": [
+        "/uploads/products/necklace.png"
+      ],
+      "category": "necklaces",
+      "qty": 1
+    },
+    {
+      "_id": "69e0d9e77f6d282dca7659c6",
+      "name": "Silver Earrings",
+      "price": 2999,
+      "images": [
+        "/uploads/products/earrings.png"
+      ],
+      "category": "earrings",
+      "qty": 1
+    },
+    {
+      "_id": "69e0d9e77f6d282dca7659c4",
+      "name": "Royal Gold Ring",
+      "price": 19999,
+      "images": [
+        "/uploads/products/ring.png"
+      ],
+      "category": "rings",
+      "qty": 1
+    }
+  ],
+  "amount": 85486.91,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "address": {
+    "fullName": "jaydeep",
+    "phone": "9328503992",
+    "altPhone": "4566679988",
+    "address": "A/14sadbhav,apartment near srag tennis academy, gurukul , ahmedabad-380062",
+    "city": "Ahmedabad",
+    "_id": "69ff04fd9b9eb77019dfe134"
+  },
+  "status": "Failed",
+  "deliveryStatus": "Processing",
+  "refundStatus": "Not Refunded",
+  "date": {
+    "$date": "2026-05-10T09:54:47.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a00560b192745a438d174c1"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c6",
+      "name": "Silver Earrings",
+      "price": 2999,
+      "images": [
+        "/uploads/products/earrings.png"
+      ],
+      "category": "earrings",
+      "qty": 1
+    },
+    {
+      "_id": "69e0d9e77f6d282dca7659c4",
+      "name": "Royal Gold Ring",
+      "price": 19999,
+      "images": [
+        "/uploads/products/ring.png"
+      ],
+      "category": "rings",
+      "qty": 1
+    }
+  ],
+  "amount": 23687.94,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "address": {
+    "fullName": "jaydeep",
+    "phone": "9328503992",
+    "altPhone": "4566679988",
+    "address": "A/14sadbhav,apartment near srag tennis academy, gurukul , ahmedabad-380062",
+    "city": "Ahmedabad",
+    "_id": "69ff04fd9b9eb77019dfe134"
+  },
+  "status": "Paid",
+  "deliveryStatus": "Processing",
+  "refundStatus": "Not Refunded",
+  "date": {
+    "$date": "2026-05-10T09:55:23.927Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SncSTerJtN3YLe",
+  "razorpayOrderId": "order_SncSPVGdnQSFF7"
+},
+{
+  "_id": {
+    "$oid": "6a005639192745a438d174d0"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "ratings": {
+        "average": 0,
+        "count": 0
+      },
+      "_id": "69e0d9e77f6d282dca7659c6",
+      "name": "Silver Earrings",
+      "slug": "silver-earrings",
+      "description": "Stylish silver earrings",
+      "category": "earrings",
+      "metal": "silver",
+      "price": 2999,
+      "mrp": 3999,
+      "images": [
+        "/uploads/products/earrings.png"
+      ],
+      "stock": 12,
+      "sku": "EAR001",
+      "sizes": [],
+      "tags": [
+        "silver",
+        "earrings"
+      ],
+      "isFeatured": false,
+      "isActive": true,
+      "salesCount": 8,
+      "specs": [],
+      "__v": 0,
+      "createdAt": "2026-04-16T12:45:27.465Z",
+      "updatedAt": "2026-05-10T09:55:45.929Z",
+      "qty": 1
+    }
+  ],
+  "amount": 3088.97,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "address": {
+    "fullName": "jaydeep",
+    "phone": "9328503992",
+    "altPhone": "4566679988",
+    "address": "A/14sadbhav,apartment near srag tennis academy, gurukul , ahmedabad-380062",
+    "city": "Ahmedabad",
+    "_id": "69ff04fd9b9eb77019dfe134"
+  },
+  "status": "Paid",
+  "deliveryStatus": "Processing",
+  "refundStatus": "Not Refunded",
+  "date": {
+    "$date": "2026-05-10T09:56:09.523Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SncTID8If52drA",
+  "razorpayOrderId": "order_SncTDG5mn4UeCR"
+},
+{
+  "_id": {
+    "$oid": "6a007303c247eec9ce614d75"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c5",
+      "name": "Diamond Necklace",
+      "price": 59999,
+      "images": [
+        "/uploads/products/necklace.png"
+      ],
+      "category": "necklaces",
+      "qty": 1
+    },
+    {
+      "_id": "69e0d9e77f6d282dca7659c6",
+      "name": "Silver Earrings",
+      "price": 2999,
+      "images": [
+        "/uploads/products/earrings.png"
+      ],
+      "category": "earrings",
+      "qty": 1
+    }
+  ],
+  "amount": 64887.94,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "address": {
+    "fullName": "manav",
+    "phone": "1234567892",
+    "altPhone": "1235896598",
+    "address": "near sola bridge, Beside JG School,ghatlodiya,ahmedabad-380060",
+    "city": "Mumbai",
+    "_id": "69ff6355754f19a8d57b3ba0"
+  },
+  "status": "Paid",
+  "deliveryStatus": "Delivered",
+  "refundStatus": "Not Refunded",
+  "date": {
+    "$date": "2026-05-10T11:58:59.997Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SneZ6RVxgc5rKv",
+  "razorpayOrderId": "order_SneYyiSwToCEZ9",
+  "deliveredAt": {
+    "$date": "2026-05-12T13:22:11.326Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a00e0208a9c27c2afd85f04"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c4",
+      "name": "Royal Gold Ring",
+      "price": 19999,
+      "images": [
+        "/uploads/products/ring.png"
+      ],
+      "category": "rings",
+      "qty": 1
+    }
+  ],
+  "amount": 20598.97,
+  "customer": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "address": {
+    "fullName": "manav",
+    "phone": "1234567892",
+    "altPhone": "1235896598",
+    "address": "near sola bridge, Beside JG School,ghatlodiya,ahmedabad-380060",
+    "city": "Mumbai",
+    "_id": "69ff6355754f19a8d57b3ba0"
+  },
+  "status": "Paid",
+  "deliveryStatus": "Delivered",
+  "refundStatus": "Not Refunded",
+  "date": {
+    "$date": "2026-05-10T19:44:32.293Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SnmUtCKoJTCTCO",
+  "razorpayOrderId": "order_SnmUkfDxcQBh2H",
+  "deliveredAt": {
+    "$date": "2026-05-10T20:40:24.186Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0391ef4221607c11eab51b"
+  },
+  "name": "Jewellery Order",
+  "products": [
+    {
+      "_id": "69e0d9e77f6d282dca7659c4",
+      "name": "Royal Gold Ring",
+      "price": 19999,
+      "images": [
+        "/uploads/products/ring.png"
+      ],
+      "category": "rings",
+      "qty": 1
+    }
+  ],
+  "amount": 20598.97,
+  "customer": "Diya Patel",
+  "email": "diyacmp@gmail.com",
+  "address": {
+    "fullName": "Manav Shah",
+    "phone": "9328503992",
+    "altPhone": "9408192115",
+    "address": "A/14 sadbhav apartment,near SRAG Tennis Academy ,ahmedabad-380061",
+    "_id": "69f4b2abf17f6ffca44783d3"
+  },
+  "status": "Paid",
+  "deliveryStatus": "Delivered",
+  "refundStatus": "Not Refunded",
+  "date": {
+    "$date": "2026-05-12T20:47:43.712Z"
+  },
+  "__v": 0,
+  "paymentId": "pay_SoadoNkCC6PwFE",
+  "razorpayOrderId": "order_SoadjhyTHTv6j2",
+  "deliveredAt": {
+    "$date": "2026-05-12T20:50:39.957Z"
+  }
+}]

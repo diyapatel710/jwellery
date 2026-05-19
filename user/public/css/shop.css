@@ -1,0 +1,278 @@
+/* ── SHOP PAGE CSS ── */
+
+/* Page Hero */
+.page-hero {
+  padding: 160px 2rem 80px;
+  background: linear-gradient(135deg, var(--dark) 0%, var(--dark-mid) 100%);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.page-hero-bg {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at center, rgba(201, 168, 76, 0.1) 0%, transparent 70%);
+}
+
+.page-hero-content {
+  position: relative;
+  z-index: 1;
+}
+
+.page-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(2.5rem, 6vw, 4rem);
+  font-weight: 300;
+  color: var(--white);
+  margin: 0.5rem 0;
+}
+
+.page-title em {
+  color: var(--gold-light);
+  font-style: italic;
+}
+
+.breadcrumb {
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.4);
+  margin-top: 0.5rem;
+}
+
+.breadcrumb a {
+  color: var(--gold);
+  text-decoration: none;
+}
+
+/* Shop Layout */
+.shop-section {
+  padding: 60px 0 100px;
+}
+
+.shop-layout {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+}
+
+/* Sidebar */
+.shop-sidebar {
+  width: 260px;
+  flex-shrink: 0;
+  background: var(--white);
+  border: 1px solid rgba(201, 168, 76, 0.15);
+  border-radius: var(--radius);
+  padding: 1.8rem;
+  position: sticky;
+  top: 90px;
+}
+
+.sidebar-close {
+  display: none;
+}
+
+.filter-group {
+  margin-bottom: 1.8rem;
+}
+
+.filter-group h4 {
+  font-size: 0.72rem;
+  font-weight: 400;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid rgba(201, 168, 76, 0.15);
+}
+
+.filter-group label {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 0.85rem;
+  font-weight: 300;
+  color: var(--text);
+  margin-bottom: 0.6rem;
+  cursor: none;
+  transition: color 0.2s;
+}
+
+.filter-group label:hover {
+  color: var(--gold);
+}
+
+.filter-group input[type="checkbox"] {
+  accent-color: var(--gold);
+  cursor: none;
+}
+
+.price-range {
+  width: 100%;
+  accent-color: var(--gold);
+  margin-bottom: 0.5rem;
+}
+
+.price-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.78rem;
+  color: var(--text-light);
+}
+
+.apply-filters {
+  width: 100%;
+  text-align: center;
+}
+
+/* Shop Main */
+.shop-main {
+  flex: 1;
+  min-width: 0;
+}
+
+.shop-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin-bottom: 1.8rem;
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid rgba(201, 168, 76, 0.15);
+}
+
+.filter-toggle {
+  display: none;
+  padding: 0.5rem 1.2rem;
+  background: var(--dark);
+  color: var(--white);
+  border: none;
+  border-radius: 6px;
+  font-family: 'Jost', sans-serif;
+  font-size: 0.8rem;
+  cursor: none;
+}
+
+.result-count {
+  font-size: 0.9rem;
+  color: #8a6d3b;
+  width: 100%;
+  text-align: right;
+  margin-top: 20px;
+  font-weight: 500;
+}
+
+.result-count strong {
+  color: var(--dark);
+}
+
+.sort-select {
+  padding: 0.5rem 1rem;
+  border: 1px solid rgba(201, 168, 76, 0.3);
+  border-radius: 6px;
+  font-family: 'Jost', sans-serif;
+  font-size: 0.82rem;
+  color: var(--text);
+  background: var(--white);
+  cursor: none;
+  outline: none;
+}
+
+/* Pagination */
+.pagination {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+.page-btn {
+  width: 38px;
+  height: 38px;
+  border: 1px solid rgba(201, 168, 76, 0.3);
+  background: none;
+  border-radius: 6px;
+  font-family: 'Jost', sans-serif;
+  font-size: 0.85rem;
+  color: var(--text);
+  cursor: none;
+  transition: var(--transition);
+}
+
+.page-btn:hover,
+.page-btn.active {
+  background: var(--gold);
+  color: var(--dark);
+  border-color: var(--gold);
+}
+
+.page-btn.next {
+  width: auto;
+  padding: 0 1rem;
+}
+
+/* Sidebar Overlay */
+.sidebar-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 800;
+  backdrop-filter: blur(2px);
+}
+
+.sidebar-overlay.show {
+  display: block;
+}
+
+/* ── Tablet ── */
+@media (max-width: 1024px) {
+  .shop-sidebar {
+    width: 220px;
+  }
+
+  .shop-layout {
+    gap: 1.5rem;
+  }
+}
+
+/* ── Mobile ── */
+@media (max-width: 768px) {
+  .filter-toggle {
+    display: block;
+  }
+
+  .shop-layout {
+    display: block;
+  }
+
+  .shop-sidebar {
+    position: fixed;
+    top: 0;
+    left: -100%;
+    bottom: 0;
+    width: 290px;
+    z-index: 900;
+    overflow-y: auto;
+    border-radius: 0;
+    transition: left 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  }
+
+  .shop-sidebar.open {
+    left: 0;
+  }
+
+  .sidebar-close {
+    display: block;
+    width: 100%;
+    text-align: right;
+    background: none;
+    border: none;
+    color: var(--text);
+    font-size: 0.85rem;
+    cursor: pointer;
+    margin-bottom: 1rem;
+    font-family: 'Jost', sans-serif;
+  }
+}

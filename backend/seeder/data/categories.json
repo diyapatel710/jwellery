@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "69f0a573fc994430271a7a1d"
+  },
+  "name": "Rings",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "69f0a5fafc994430271a7a1e"
+  },
+  "name": "Necklaces",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "69f0a886fc994430271a7a1f"
+  },
+  "name": "Bracelets",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "69f0a893fc994430271a7a20"
+  },
+  "name": "Bangles",
+  "image": ""
+},
+{
+  "_id": {
+    "$oid": "69f0a8a3fc994430271a7a21"
+  },
+  "name": "Pendants",
+  "image": ""
+}]

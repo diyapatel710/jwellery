@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "69e1e57f40a4a58dd4ac88a5"
+  },
+  "name": "Super Admin",
+  "email": "admin@jwello.com",
+  "password": "admin",
+  "role": "admin",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e7587eb493c2123cf94a25"
+  },
+  "name": "Diya admin",
+  "email": "diya@admin.com",
+  "password": "Diya@admin123",
+  "role": "admin",
+  "status": "active"
+},
+{
+  "_id": {
+    "$oid": "69e7596bb493c2123cf94a27"
+  },
+  "name": "Jaydeep",
+  "email": "mrjdparmar01@gmail.com",
+  "password": "mrjdparmar01@gmail.com",
+  "phone": "9328503992",
+  "role": "user",
+  "status": "active",
+  "__v": 6,
+  "addresses": [
+    {
+      "fullName": "jaydeep",
+      "phone": "9328503992",
+      "altPhone": "4566679988",
+      "address": "A/14sadbhav,apartment near srag tennis academy, gurukul , ahmedabad-380062",
+      "city": "Ahmedabad",
+      "_id": {
+        "$oid": "69ff04fd9b9eb77019dfe134"
+      }
+    },
+    {
+      "fullName": "manav",
+      "phone": "1234567892",
+      "altPhone": "1235896598",
+      "address": "near sola bridge, Beside JG School,ghatlodiya,ahmedabad-380060",
+      "city": "Mumbai",
+      "_id": {
+        "$oid": "69ff6355754f19a8d57b3ba0"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69f18f5b2a77108dd288f954"
+  },
+  "name": "vedant shah",
+  "email": "vedantshah7325@gmail.com",
+  "phone": "7984820450",
+  "password": "Vedant@2005",
+  "role": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69f47b90c34dbac903d45d60"
+  },
+  "name": "Diya Patel",
+  "email": "diyacmp@gmail.com",
+  "password": "Diya@123",
+  "addresses": [
+    {
+      "fullName": "Diya Patel",
+      "phone": "9662559503",
+      "altPhone": "9106598600",
+      "address": "A/14,sadbhav apartment,Near SRAG tennis academy , gurukul,ahmedabad-380062",
+      "_id": {
+        "$oid": "69f48153c34dbac903d45d66"
+      }
+    },
+    {
+      "fullName": "Manav Shah",
+      "phone": "9328503992",
+      "altPhone": "9408192115",
+      "address": "A/14 sadbhav apartment,near SRAG Tennis Academy ,ahmedabad-380061",
+      "_id": {
+        "$oid": "69f4b2abf17f6ffca44783d3"
+      }
+    }
+  ],
+  "__v": 6,
+  "role": "user",
+  "phone": "9662559503"
+},
+{
+  "_id": {
+    "$oid": "69fb149d38745f9b511a850c"
+  },
+  "name": "Vraj patel",
+  "email": "vrajpatel123@gmail.com",
+  "phone": "7984820451",
+  "password": "Vraj@2005",
+  "role": "user",
+  "addresses": [
+    {
+      "fullName": "Vraj Patel",
+      "phone": "7984820451",
+      "altPhone": "9427489013",
+      "address": "nikol,ahmedabad-380061",
+      "_id": {
+        "$oid": "69fb166338745f9b511a8543"
+      }
+    }
+  ],
+  "__v": 1
+}]

@@ -1,0 +1,218 @@
+[{
+  "_id": {
+    "$oid": "69e0d9e77f6d282dca7659c4"
+  },
+  "name": "Royal Gold Ring",
+  "slug": "royal-gold-ring",
+  "description": "Elegant handcrafted gold ring",
+  "category": "rings",
+  "metal": "gold",
+  "karat": "22K",
+  "price": 19999,
+  "mrp": 24999,
+  "images": [
+    "/uploads/products/ring.png"
+  ],
+  "stock": 19,
+  "sku": "RING001",
+  "sizes": [],
+  "tags": [
+    "gold",
+    "ring"
+  ],
+  "isFeatured": true,
+  "isActive": true,
+  "salesCount": 11,
+  "ratings": {
+    "average": 3.5,
+    "count": 2
+  },
+  "specs": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-16T12:45:27.464Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-12T20:59:40.926Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e0d9e77f6d282dca7659c5"
+  },
+  "name": "Diamond Necklace",
+  "slug": "diamond-necklace",
+  "description": "Luxury diamond necklace",
+  "category": "necklaces",
+  "metal": "diamond",
+  "karat": "18K",
+  "price": 59999,
+  "mrp": 69999,
+  "images": [
+    "/uploads/products/necklace.png"
+  ],
+  "stock": 3,
+  "sku": "NECK001",
+  "sizes": [],
+  "tags": [
+    "diamond",
+    "necklace"
+  ],
+  "isFeatured": true,
+  "isActive": true,
+  "salesCount": 8,
+  "ratings": {
+    "average": 2.5,
+    "count": 1
+  },
+  "specs": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-16T12:45:27.465Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-12T17:50:30.193Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e0d9e77f6d282dca7659c6"
+  },
+  "name": "Silver Earrings",
+  "slug": "silver-earrings",
+  "description": "Stylish silver earrings",
+  "category": "earrings",
+  "metal": "silver",
+  "price": 2999,
+  "mrp": 3999,
+  "images": [
+    "/uploads/products/earrings.png"
+  ],
+  "stock": 10,
+  "sku": "EAR001",
+  "sizes": [],
+  "tags": [
+    "silver",
+    "earrings"
+  ],
+  "isFeatured": false,
+  "isActive": true,
+  "salesCount": 10,
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "specs": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-16T12:45:27.465Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-10T11:59:23.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69fde30f83d1d323063d5093"
+  },
+  "name": "Gold Bracelet",
+  "slug": "gold-bracelet",
+  "description": "Premium gold bracelet",
+  "category": "bracelets",
+  "metal": "gold",
+  "karat": "22K",
+  "price": 15999,
+  "mrp": 19999,
+  "images": [
+    "/uploads/products/bracelet.png"
+  ],
+  "stock": 17,
+  "sku": "BRA001",
+  "sizes": [],
+  "tags": [
+    "gold",
+    "bracelet"
+  ],
+  "isFeatured": false,
+  "isActive": true,
+  "salesCount": 3,
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "specs": [],
+  "status": "in-stock",
+  "updatedAt": {
+    "$date": "2026-05-08T19:48:49.762Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69fdf37383d1d323063d5097"
+  },
+  "name": "Royal Gold Bangles",
+  "slug": "royal-gold-bangles",
+  "description": "Traditional royal gold bangles with premium finish",
+  "category": "bangles",
+  "metal": "gold",
+  "karat": "22K",
+  "price": 24999,
+  "mrp": 28999,
+  "images": [
+    "/uploads/products/bangles.png"
+  ],
+  "stock": 7,
+  "sku": "BAN001",
+  "sizes": [],
+  "tags": [
+    "bangles",
+    "gold"
+  ],
+  "isFeatured": true,
+  "isActive": true,
+  "salesCount": 3,
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "specs": [],
+  "status": "in-stock",
+  "updatedAt": {
+    "$date": "2026-05-08T19:48:49.785Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69fdf39783d1d323063d5098"
+  },
+  "name": "Diamond Pendant",
+  "slug": "diamond-pendant",
+  "description": "Beautiful diamond pendant with luxury gold finish",
+  "category": "pendants",
+  "metal": "diamond",
+  "karat": "18K",
+  "price": 12999,
+  "mrp": 14999,
+  "images": [
+    "/uploads/products/pendants.png"
+  ],
+  "stock": 15,
+  "sku": "PEN001",
+  "sizes": [],
+  "tags": [
+    "pendant",
+    "diamond"
+  ],
+  "isFeatured": false,
+  "isActive": true,
+  "salesCount": 3,
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "specs": [],
+  "status": "in-stock",
+  "updatedAt": {
+    "$date": "2026-05-08T19:48:49.819Z"
+  }
+}]
