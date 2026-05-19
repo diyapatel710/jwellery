@@ -192,22 +192,21 @@ function Login() {
                     <div className="auth-box">
 
                         <div className="auth-tabs">
-                            <button
-                                className={`auth - tab ${activeTab === "login" ? "active" : ""}`}
+                            <button className={`auth-tab ${activeTab === "login" ? "active" : ""}`}
                                 onClick={() => setActiveTab("login")}
                             >
                                 Sign In
                             </button>
 
                             <button
-                                className={`auth - tab ${activeTab === "register" ? "active" : ""} `}
+                                className={`auth-tab ${activeTab === "register" ? "active" : ""}`}
                                 onClick={() => setActiveTab("register")}
                             >
                                 Create Account
                             </button>
                         </div>
 
-                        <div className={`form - panel ${activeTab === "login" ? "active" : ""} `}>
+                        <div className={`form-panel ${activeTab === "login" ? "active" : ""}`}>
                             <h2 className="auth-heading">Welcome <em>Back</em></h2>
 
                             <div className="auth-form-group">
@@ -241,7 +240,7 @@ function Login() {
                             </button>
                         </div>
 
-                        <div className={`form - panel ${activeTab === "register" ? "active" : ""} `}>
+                        <div className={`form-panel ${activeTab === "register" ? "active" : ""} `}>
                             <h2 className="auth-heading">Join <em>JWELLO</em></h2>
 
                             <div className="auth-form-group">
